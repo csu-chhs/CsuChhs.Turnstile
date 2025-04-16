@@ -7,7 +7,6 @@ namespace CsuChhs.Turnstile.Clients;
 
 public class TokenClient : ITokenClient
 {
-    private ILogger<TokenClient> _logger;
     private const string Url = "https://challenges.cloudflare.com/turnstile/v0/siteverify";
 
     private RestClient _BuildClient()
