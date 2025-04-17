@@ -21,7 +21,6 @@
   <ItemGroup>
     <PackageReference Include="RestSharp" Version="112.1.0" />
     <PackageReference Include="RestSharp.Serializers.NewtonsoftJson" Version="112.1.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.1"/>
   </ItemGroup>
 
 </Project>
