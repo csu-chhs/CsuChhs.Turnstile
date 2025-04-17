@@ -1,5 +1,4 @@
 using CsuChhs.Turnstile.ResourceModels;
-using Microsoft.Extensions.Logging;
 using RestSharp;
 using RestSharp.Serializers.NewtonsoftJson;
 
